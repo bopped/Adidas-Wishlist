@@ -20,7 +20,9 @@ Alternative:
 3b. Go to adidas.com / adidas.co.uk. 
 4b. Paste wishlist.js's raw code.
 
-
+Another Alternative:
+1c. Open wishlist URL. 
+2c. In URL bar, type **IMPORTANT** javascript: **IMPORTANT**  then paste wishlist.js raw code. 
 ```
 
 ![Sample](https://i.imgur.com/oyrE3se.png)
