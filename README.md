@@ -15,10 +15,12 @@ Setup:
 3a. Go to adidas.com / adidas.co.uk, and press bookmark. 
 
 Alternative:
-1. Open Chrome Dev Tools. (Or your browser's equivalent) 
-2. Open javascript console. 
-3. Go to adidas.com / adidas.co.uk. 
-3. Paste wishlist.js's raw code.
+1b. Open Chrome Dev Tools. (Or your browser's equivalent) 
+2b. Open javascript console. 
+3b. Go to adidas.com / adidas.co.uk. 
+4b. Paste wishlist.js's raw code.
+
+
 ```
 
 ![Sample](https://i.imgur.com/oyrE3se.png)
