@@ -12,12 +12,12 @@ Setup:
 ```sh
 1a. Copy raw code from wishlist.js 
 2a. Create new bookmark and paste code into the bookmark URL. 
-3a. Go to adidas.com / adidas.co.uk, and press bookmark. 
+3a. Go to any adidas domain (that has wishlist), and press bookmark. 
 
 Alternative:
 1b. Open Chrome Dev Tools. (Or your browser's equivalent) 
 2b. Open javascript console. 
-3b. Go to adidas.com / adidas.co.uk. 
+3b. Go to any adidas domain (that has wishlist). 
 4b. Paste wishlist.js's raw code.
 
 Another Alternative:
